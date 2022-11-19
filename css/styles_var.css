@@ -1,0 +1,145 @@
+@font-face {font-family: "Vani Bold";
+  src: url("../font/vani_bold/@font-face/756871f756ee24c7029aafdad4cbdc62.eot"); /* IE9*/
+  src: url("../font/vani_bold/@font-face/756871f756ee24c7029aafdad4cbdc62.eot") format("embedded-opentype"), /* IE6-IE8 */
+  url("../font/vani_bold/@font-face/756871f756ee24c7029aafdad4cbdc62.woff2") format("woff2"), /* chrome、firefox */
+  url("../font/vani_bold/@font-face/756871f756ee24c7029aafdad4cbdc62.woff") format("woff"), /* chrome、firefox */
+  url("../font/vani_bold/@font-face/756871f756ee24c7029aafdad4cbdc62.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("../font/vani_bold/@font-face/756871f756ee24c7029aafdad4cbdc62.svg") format("svg"); /* iOS 4.1- */
+}
+
+
+
+html {
+  
+  font-family:"Vani Bold" !important;
+    font-size:16px;font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;
+  background-color :  	#FFFAFA;
+}
+body {
+  height:1100px;
+  font-family:"Vani Bold" !important;
+ background-color :  	#FFFAFA;
+ margin: none;
+ text-align: justify;
+ color: #23273C;
+  width: 100%;
+ padding:0px;
+ }
+
+ footer{
+
+  font-family:"Vani Bold" !important;
+ background-color : transparent ;
+ margin: none;
+ text-align: justify;
+ color: #2E315E;
+ width: 100%;
+ padding: 0px;
+
+ }
+
+p{
+  font-family:"Vani Bold" !important;
+  color: #2E315E;
+  text-align: center;
+  padding: 10px;
+ }
+
+
+.lien1 {
+  font-family:"Vani Bold" !important;
+    color: #2E315E;
+		text-decoration: none;
+}
+
+.lien1:hover {
+
+		color: #242E58;
+		font-weight: bold;
+		text-decoration: underline;
+}
+
+.lien2 {
+
+    color: white;
+		text-decoration: none;
+}
+
+.lien2:hover {
+
+		color: white;
+		font-weight: bold;
+		text-decoration: underline;
+}
+
+.container1{
+    color: #23273C;
+    background-color : #23273C;
+}
+.small {
+    font-size: 8px;
+}
+
+.btn-primary{
+  background-color: #23273C !important;
+  border-color: #23273C !important;
+}
+
+.icone1{
+  font-size: 30px;
+}
+
+.manual-header{
+  font-size: 30px;
+}
+
+.parallax {
+  /* The image used */
+  background-image: url("../images/Logo_final_vect.svg");
+
+  /* Set a specific height */
+  min-height: 400px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.blue{ 
+  background-color: #2E315E;
+}
+
+.padded1{
+  padding-top: 30px;
+}
+.padded2{
+  padding: 15px;
+  margin:auto;
+}
+
+.heightJoin {
+  height:1500px;
+  font-family:"Vani Bold" !important;
+ background-color : white ;
+ margin: none;
+ text-align: justify;
+ color: #23273C;;
+ width: 100%;
+ padding:0px;
+ }
+
+ .login {
+  height:700px;
+  font-family:"Vani Bold" !important;
+ background-color : white ;
+ margin: auto;
+ text-align: justify;
+ color: #23273C;;
+ width: 100%;
+ padding:15px;
+ }
