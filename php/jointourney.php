@@ -178,7 +178,7 @@ $conn = null;
           <input type="text" class="form-control form-check-input-tour" name="surname" id="surname" placeholder="Prénom" required>
         </div>
         <div class="form-group">
-          <label for="exampleInputEtablissement">Remplacer pr listes de fac</label>
+          <label for="exampleInputEtablissement">Etablissement</label>
           <input type="text" class="form-control form-check-input-tour" id="school"  name="school" placeholder="Etablissement" required>
         </div>
         <div class="form-group">
